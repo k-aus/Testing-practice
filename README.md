@@ -56,5 +56,5 @@ Appium · XCUITest · Playwright · TypeScript · Git · Jenkins · Jira · JMet
 
 ---
 
-_Updated daily as part of structured QE Lead preparation._  
+_Updated daily as part of structured QE preparation._  
 
