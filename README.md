@@ -35,8 +35,8 @@ Appium · XCUITest · Playwright · TypeScript · Git · Jenkins · Jira · JMet
 
 ## Learning Phases
 
-| Phase   | Focus                                | Days | Status |
-| ------- | ------------------------------------ | ---- | ------ |
+| Phase   | Focus                                |  
+| ------- | ------------------------------------ | 
 | Phase 1 | Manual Testing + API Foundations     |
 | Phase 2 | Java + Selenium + Appium + Mobile    |
 | Phase 3 | REST Assured + TestNG + Playwright   |
@@ -57,4 +57,4 @@ Appium · XCUITest · Playwright · TypeScript · Git · Jenkins · Jira · JMet
 ---
 
 _Updated daily as part of structured QE Lead preparation._  
-_Contact: kaustubhbayaskar4@gmail.com_
+
